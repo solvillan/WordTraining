@@ -1,5 +1,5 @@
 ##WordTraining
-This is an application fro word training. I made this during my spare time to learn more about Swing and gui development.
+This is an application for word training. I made this during my spare time to learn more about Swing and gui development.
 
 ##How to use
 When you first start the program it will show a pop-up window with a textfield. Here you enter the words using a special syntax.
